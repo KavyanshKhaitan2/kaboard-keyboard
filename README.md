@@ -43,4 +43,6 @@ Quickly jump to different sections of this README.
 | EC11 rotary encoder | 1 | - | 0 | Rs. 4120 ($49.2) |
 | SK6812MINI-E | 120 | [LCSC](https://www.lcsc.com/product-detail/C5149201.html?s_z=n_SK6812MINI-E) | $9 (~ Rs. 900) | Rs. 5020 ($58.2) |
 | PCB | 1 | JLCPCB | $2 (~Rs. 200) | Rs. 5220 ($60.2) |
-| Shipping (Guesstimate) | - | - | $30 (~Rs. 3000) | Rs. 8220 ($90.2) |
+| Keycap Stabilizers | 8 | [StacksKB](https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/) | Rs. 400 (~$4) | Rs. 5620 ($64.2) |
+| Keycap Stabilizers | 1 set | [Amazon](https://www.amazon.in/Merishopp-Stabilizers-Precision-Mechanical-Networking/dp/B0FF4F3RZY) | Rs. 870 (~$8) | Rs. 6490 ($72.2) |
+| Shipping (Guesstimate) | - | - | $25 (~Rs. 2500) | Rs. 8920 ($97.2) |
