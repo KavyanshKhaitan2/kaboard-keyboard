@@ -6,11 +6,15 @@ This is my first keyboard prototype.
 
 ## Contents
 Quickly jump to different sections of this README.
+1. [Fallout Zine Page](#zine)
 1. [PCB](#pcb)
 2. [Schematics](#schematics)
 3. [Case](#case)
 4. [BOM](#bom)
- 
+
+## Zine
+<img height="500" alt="Kaboard! Zine (1)" src="https://github.com/user-attachments/assets/40332a2a-b68f-4ef3-a8bf-211de0e3f8c0" />
+
 ## PCB
 <img width="1608" height="498" alt="image" src="https://github.com/user-attachments/assets/8e728b30-10e8-4153-b104-8cc29bbd6efa" />
 
