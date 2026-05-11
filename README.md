@@ -1,4 +1,5 @@
 # Kaboard!
+[[ Showcase video ]](https://youtu.be/ID2R_xTHKyI)
 
 _Yet another mechanical keyboard_
 
