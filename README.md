@@ -3,15 +3,21 @@
 
 _Yet another mechanical keyboard_
 
-This is my first keyboard prototype.
+This is the first full-size keyboard I built!
+
+It is a full-size mechanical keyboard with LEDs under each key. The firmware is very customisable, you can customise everything using usevia.app.
 
 ## Contents
 Quickly jump to different sections of this README.
+1. [Why?](#why)
 1. [Fallout Zine Page](#zine)
 1. [PCB](#pcb)
 2. [Schematics](#schematics)
 3. [Case](#case)
 4. [BOM](#bom)
+5. [How do I build it?](#how-do-i-build-it)
+## Why?
+I wanted to learn how to build a keyboard, so this is how I decided to do that!
 
 ## Zine
 <img height="500" alt="Kaboard! Zine (1)" src="https://github.com/user-attachments/assets/40332a2a-b68f-4ef3-a8bf-211de0e3f8c0" />
@@ -36,7 +42,7 @@ Quickly jump to different sections of this README.
 
 [ [Download STEP file](https://github.com/KavyanshKhaitan2/kaboard-keyboard/raw/refs/heads/main/case/top.step) ]
 
-# BOM
+## BOM
 | Item | Qty | Link | Price | Running total |
 |------|-----|------|-------|--------------:|
 | Keycaps | 1 set |  [StacksKB](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) | Rs. 1300 (~ $15) | Rs. 1300 ($15) |
@@ -51,3 +57,18 @@ Quickly jump to different sections of this README.
 | Keycap Stabilizers | 8 | [StacksKB](https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/) | Rs. 400 (~$4) | Rs. 7720 ($87.5) |
 | Spacebar Stabilizer Wire | 1 | Self fulfilled | Rs. 0 | Rs. 7720 ($87.5) |
 | Shipping (Guesstimate) | - | - | $25 (~Rs. 2500) | Rs. 10220 ($112.5) |
+
+## How do I build it?
+1. Obtain all of the BoM.
+2. Print the 3d case
+3. Start soldering the SK6812MINI-Es
+4. Solder all the diodes
+5. Solder the pi pico from the back
+6. Solder the rotary encoder
+7. Add the stabilizers to the top part of the case
+8. Get the top part of the case and place it over the pcb
+9. Get all the switches and place it through the case
+10. Solder all the switches that you just placed
+11. Plug it in to your computer in BOOTSEL mode
+12. Upload the .uf2 firmware file over to the drive that just got mounted
+13. Voilla! You are now done!
